@@ -1,2 +1,3 @@
 plik testowy 
 #zmiana testowa
+#zmiana pliku3
